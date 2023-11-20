@@ -3,21 +3,16 @@
 	<div class="page-banner__bg-image"
 		style="background-image: url(<?php echo get_theme_file_uri('/images/ocean.jpg') ?>)"></div>
 	<div class="page-banner__content container container--narrow">
-		<h1 class="page-banner__title">
-			<?php if (is_category()): single_cat_title(); ?>
-      <?php endif ?>
-      <?php if (is_author()): echo 'Posts by '; the_author(); ?> 
-      <?php endif ?>
-		</h1>
+		<h1 class="page-banner__title"> <?php the_archive_title(); ?></h1>
 		<div class="page-banner__intro">
-			<p>Keep up with our latest news.</p>
+			<p><?php the_archive_description(); ?></p>
 		</div>
 	</div>
 </div>
 
 <div class="container container--narrow page-section">
 	<?php while (have_posts()) {
-    the_post(); ?>
+		the_post(); ?>
 		<div class="post-item">
 			<h2 class="headline headline--medium headline--post-title">
 				<a href="<?php the_permalink(); ?>"><?php the_title(); ?></a>
@@ -31,8 +26,8 @@
 			</div>
 		</div>
 	<?php
-  }
-  echo paginate_links();
-    ?>
+	}
+	echo paginate_links();
+		?>
 </div>
 <?php get_footer(); ?>
