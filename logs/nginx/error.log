@@ -1,2 +1,4 @@
 2023/11/18 23:34:52 [alert] 9876#14988: worker process 14748 exited with code C0000142
 2023/11/18 23:34:52 [alert] 9876#14988: could not respawn worker
+2023/11/20 17:29:46 [alert] 21508#2216: worker process 10272 exited with code C0000142
+2023/11/20 17:29:46 [alert] 21508#2216: could not respawn worker

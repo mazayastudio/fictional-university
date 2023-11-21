@@ -1,3 +1,27 @@
 [19-Nov-2023 09:14:20 UTC] PHP Warning:  Undefined variable $theParent in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-content\themes\fictionaluniversity\single.php on line 24
 [19-Nov-2023 09:14:20 UTC] PHP Warning:  Undefined variable $theParent in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-content\themes\fictionaluniversity\single.php on line 25
 [19-Nov-2023 09:15:37 UTC] PHP Warning:  Undefined variable $theParent in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-content\themes\fictionaluniversity\single.php on line 24
+[21-Nov-2023 00:14:29 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 106
+[21-Nov-2023 00:14:29 UTC] PHP Warning:  Constant WP_DEBUG_LOG already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 107
+[21-Nov-2023 00:14:29 UTC] PHP Warning:  Constant WP_DEBUG_DISPLAY already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 108
+[21-Nov-2023 00:14:35 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 106
+[21-Nov-2023 00:14:35 UTC] PHP Warning:  Constant WP_DEBUG_LOG already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 107
+[21-Nov-2023 00:14:35 UTC] PHP Warning:  Constant WP_DEBUG_DISPLAY already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 108
+[21-Nov-2023 00:14:35 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 106
+[21-Nov-2023 00:14:35 UTC] PHP Warning:  Constant WP_DEBUG_LOG already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 107
+[21-Nov-2023 00:14:35 UTC] PHP Warning:  Constant WP_DEBUG_DISPLAY already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 108
+[21-Nov-2023 00:14:36 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 106
+[21-Nov-2023 00:14:36 UTC] PHP Warning:  Constant WP_DEBUG_LOG already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 107
+[21-Nov-2023 00:14:36 UTC] PHP Warning:  Constant WP_DEBUG_DISPLAY already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 108
+[21-Nov-2023 00:15:36 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 106
+[21-Nov-2023 00:15:36 UTC] PHP Warning:  Constant WP_DEBUG_LOG already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 107
+[21-Nov-2023 00:15:36 UTC] PHP Warning:  Constant WP_DEBUG_DISPLAY already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 108
+[21-Nov-2023 00:15:44 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 106
+[21-Nov-2023 00:15:44 UTC] PHP Warning:  Constant WP_DEBUG_LOG already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 107
+[21-Nov-2023 00:15:44 UTC] PHP Warning:  Constant WP_DEBUG_DISPLAY already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 108
+[21-Nov-2023 00:15:44 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 106
+[21-Nov-2023 00:15:44 UTC] PHP Warning:  Constant WP_DEBUG_LOG already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 107
+[21-Nov-2023 00:15:44 UTC] PHP Warning:  Constant WP_DEBUG_DISPLAY already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 108
+[21-Nov-2023 00:15:44 UTC] PHP Warning:  Constant WP_DEBUG already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 106
+[21-Nov-2023 00:15:44 UTC] PHP Warning:  Constant WP_DEBUG_LOG already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 107
+[21-Nov-2023 00:15:44 UTC] PHP Warning:  Constant WP_DEBUG_DISPLAY already defined in C:\Users\mazay\Coding\1-Fictional-Univ\app\public\wp-config.php on line 108
